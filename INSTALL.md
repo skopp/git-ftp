@@ -88,7 +88,7 @@ This is a easy way to have more then one git-ftp installed
 	$ mkdir ~/bin && cd ~/bin/
 	$ ln -s ~/develop/git-ftp.git/git-ftp git-ftp.dev
 
-After this you can use 'git ftp.dev' or 'git-ftp.dev'
+After this you can use 'git-ftp' or 'git-ftp.dev'
 
 Update to the latest version is simple as:
 
